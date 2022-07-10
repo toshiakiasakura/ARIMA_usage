@@ -2,7 +2,7 @@ version: "3"
 services:
   lab:
 
-    container_name: overtime-consultation
+    container_name: arima-check
     build:
         context: .
         dockerfile: ./Dockerfile
